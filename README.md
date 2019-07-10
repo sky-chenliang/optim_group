@@ -1,2 +1,22 @@
 # optim_group
-If you visit our optimization group in AMSS, CAS, you may need some documents in this project. The homepage of our group is  http://lsec.cc.ac.cn/~optim/
+欢迎访问数学院计算数学所优化课题组。
+课题组主页：http://lsec.cc.ac.cn/~optim/
+
+地址：北京市海淀区中关村东路55号
+邮编：100190
+
+酒店预订电话：
+800+
+辽宁大厦      010-62589999-5779
+骏马国际酒店  010-82885858
+400+
+物科宾馆 010-82649140
+科园公寓 010-82628538
+恒兴大厦 010-62629988
+舒梦缘宾馆 010-62631988
+
+饭店订餐电话：
+物科三层 010-82648024
+湘乡楼   010-57199915
+徽杭谷稻 010-62570299
+鑫蜀源   010-62532600
