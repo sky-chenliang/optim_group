@@ -1,4 +1,0 @@
-http://www.ctex.org/CTeXDownload/
-下载 full 版本的 ctex
-
-建议下载 texstudio 配套使用
